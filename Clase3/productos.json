@@ -1,0 +1,6 @@
+{
+    "productos": [
+        { "nombre": "Jabón de manos", "precio": 2.5, "stock": 50 },
+        { "nombre": "Toallitas húmedas", "precio": 3.5, "stock": 30 }
+    ]
+}

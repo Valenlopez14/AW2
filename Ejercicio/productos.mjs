@@ -1,4 +1,4 @@
-const productoslimpieza = [
+const productos= [
     { nombre: "Jabón de manos", precio: 2.5, stock: 50 },
     { nombre: "Toallitas húmedas", precio: 3.5, stock: 30 },
     { nombre: "Cloro", precio: 4.5, stock: 20 },
@@ -11,4 +11,4 @@ const productoslimpieza = [
     { nombre: "Lavavajillas", precio: 30.5, stock: 5 }
   ];
 
-  export {productoslimpieza};
+  export {productos};
